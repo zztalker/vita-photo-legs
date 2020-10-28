@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VITA-Control Фото-ног</string>
+    <string name="record">Record</string>
+    <string name="play">Play</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="upload">Upload</string>
+    <string name="start_record">Start record</string>
+    <string name="stop_record">Stop record</string>
+    <string name="start_read">Start read</string>
+    <string name="stop_read">Stop read</string>
+    <string name="identification">Id</string>
+    <string name="obnulenie">Запись по схеме</string>
+    <string name="about_text">http://192.168.1.16:8000/api/register/</string>
+    <string name="about_title">О программе</string>
+</resources>
